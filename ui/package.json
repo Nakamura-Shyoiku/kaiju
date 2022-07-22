@@ -1,0 +1,17 @@
+{
+  "name": "kaiju-js",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "jquery": "latest",
+    "msgpack": "latest",
+    "socket.io": "latest",
+    "socket.io-client": "latest",
+    "express": "latest",
+    "underscore": "latest",
+    "mongodb": "*"
+  },
+  "devDependencies": {
+    "browserify": ""
+  }
+}
